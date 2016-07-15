@@ -1,0 +1,31 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "练习项目",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.13.1"
+  },
+  "devDependencies": {
+    "jsx-loader": "^0.13.2",
+    "webpack": "^1.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lsmsnail/exercise.git"
+  },
+  "keywords": [
+    "react",
+    "es6",
+    "webpack"
+  ],
+  "author": "lsm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsmsnail/exercise/issues"
+  },
+  "homepage": "https://github.com/lsmsnail/exercise"
+}
